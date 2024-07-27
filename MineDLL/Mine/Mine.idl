@@ -1,0 +1,10 @@
+﻿// Mine.idl: Mine.dll 的类型库源
+// 此文件将由 MIDL 编译器处理以产生
+// 类型库(Mine.tlb)。
+
+[ uuid(832071f6-1a9f-453c-b9b5-2291b3236faa), version(1.0) ]
+library Mine
+{
+	importlib("stdole32.tlb");
+	importlib("stdole2.tlb");
+};
